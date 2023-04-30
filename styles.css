@@ -23,6 +23,7 @@ html, body {
 
 body {
   background: linear-gradient(140deg, rgba(2,0,36,1) 0%, rgba(15,15,82,1) 35%, rgba(255,0,101,1) 100%);
+  background-size: cover;
 }
 
 
